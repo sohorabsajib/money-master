@@ -1,0 +1,15 @@
+h1{
+    color: goldenrod;
+    font-weight: 900;
+}
+p{
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.btn{
+    color: white;
+    background-color: goldenrod;
+    border-radius: 6px;
+    padding: 5px 10px;
+    border: none;
+}
