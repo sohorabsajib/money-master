@@ -1,6 +1,6 @@
 
 
-
+// income and cost section
 const calculate =  document.getElementById('calculate').addEventListener('click',function(){
     const food =parseInt(document.getElementById("food").value);
     const rent = parseInt(document.getElementById("rent").value);
@@ -18,6 +18,8 @@ const calculate =  document.getElementById('calculate').addEventListener('click'
 
     
 });
+
+// save and remaining balance section
 const save =  document.getElementById('save').addEventListener('click',function(){
     const persentage = parseInt(document.getElementById('persentage').value);
     const income = parseInt(document.getElementById("income").value);
